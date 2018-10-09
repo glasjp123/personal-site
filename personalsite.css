@@ -1,0 +1,20 @@
+h1, h2 {
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+}
+
+body {
+    background-image: url('images/personalback.jpg');
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.aboutme {
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	font-size: small;
+	font-style: italic;
+}
